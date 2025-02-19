@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Sam, the Engineering Director at [Overleaf](https://overleaf.com), the collaborative editor for LaTeX. 
+I'm Sam, the VP Engineering for B2C products at [Digital Science]([url](https://www.digital-science.com/)). My team builds [Overleaf](https://overleaf.com), the collaborative editor for LaTeX. 
 
 <!--
 **ewmy/ewmy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
